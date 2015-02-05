@@ -1,0 +1,4 @@
+[05-Feb-2015 02:16:00 UTC] PHP Warning:  fopen(http://disqus.com/api/get_user_api_key/): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/ubuntu/workspace/wp-content/plugins/disqus-comment-system/lib/api/disqus/url.php on line 207
+[05-Feb-2015 02:18:50 UTC] PHP Warning:  fopen(http://disqus.com/api/get_user_api_key/): failed to open stream: HTTP request failed! HTTP/1.1 400 BAD REQUEST
+ in /home/ubuntu/workspace/wp-content/plugins/disqus-comment-system/lib/api/disqus/url.php on line 207
